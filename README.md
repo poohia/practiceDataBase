@@ -1,4 +1,4 @@
-# practiceDataBase
+# practiceDataBase ( Langage C )
 ## Work with Linux ( test with debian OS)
 
 ./jordanazoulaybdd createbdd -n nameOfNewDatabase <br />
