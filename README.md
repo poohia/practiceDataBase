@@ -1,4 +1,7 @@
 # practiceDataBase ( Langage C )
+
+author : AZOULAY Jordan
+
 ## Work with Linux ( test with debian OS)
 
 ./jordanazoulaybdd createbdd -n nameOfNewDatabase <br />
